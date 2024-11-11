@@ -49,7 +49,7 @@ The dataset used in this project contains **over 1.6 million tweets** labeled as
    Open the Google Colab Notebook in the `notebooks/` folder to run the project step-by-step. You can also use the Colab link below.
 
 4. **Train and Test the Model**:
-    Use `src/train.py` to train the model and `src/predict.py` to make predictions on new data.
+    Use `model.py` to train the model and make predictions on new data.
 
 ## Notebook Links
 
