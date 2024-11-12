@@ -6,4 +6,7 @@ The dataset used for this project is too large to upload directly to GitHub. Ple
 1. Ensure you have the Kaggle API set up on your system.
 2. Use the following command to download the dataset:
    ```bash
-   kaggle datasets download -d dataset-owner/dataset-name -p data/
+   kaggle datasets download -d kazanova/sentiment140
+   Dataset URL: https://www.kaggle.com/datasets/kazanova/sentiment140
+   ```
+   
